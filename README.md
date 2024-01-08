@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm moruscerberus</h1>
-<h3 align="center">I am a hobbyist programmer from Sweden that have do programming in Python and Rust.</h3>
+<h3 align="center">I am a hobbyist programmer from Sweden that do programming in Python and Rust.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moruscerberus&label=Profile%20views&color=0e75b6&style=flat" alt="moruscerberus" /> </p>
 
